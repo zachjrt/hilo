@@ -14,14 +14,14 @@ project folder. Select the main module inside the dice folder and click the "run
 ## Project Structure
 ---
 The project files and folders are organized as follows:
-```
+---
 root                    (project root folder)
 +-- hilo               (source code for game)
   +-- card              (specific classes)
   +-- score             (specific classes)
 +-- __main__.py       (program entry point)
 +-- README.md           (general info)
-```
+---
 
 ## Required Technologies
 ---
